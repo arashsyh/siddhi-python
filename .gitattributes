@@ -1,0 +1,4 @@
+.zip filter=lfs diff=lfs merge=lfs -text
+.tar.gz filter=lfs diff=lfs merge=lfs -text
+jdk-17_linux-x64_bin.tar.gz filter=lfs diff=lfs merge=lfs -text
+siddhi-sdk-5.1.2.zip filter=lfs diff=lfs merge=lfs -text

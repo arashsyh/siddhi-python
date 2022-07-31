@@ -1,0 +1,10 @@
+certifi==2022.6.15
+charset-normalizer==2.0.12
+enum34==1.1.10
+future==0.18.2
+idna==3.3
+pyjnius==1.4.1
+PySiddhi==5.1.0
+requests==2.28.0
+six==1.16.0
+urllib3==1.26.9
