@@ -10,7 +10,7 @@ with its official Python library. Therefore, there is no need to do any adjustme
 just build and run the provided dockerized implementation.
 
 __What is the difference with the official Pysiddhi Library?__  
-Pysiddhi as the official library for Siddhi in Python, but needs lots of configuration to have a successful connection 
+Pysiddhi is the official library for Siddhi in Python, but needs lots of configuration to have a successful connection 
 with the core of Siddhi. Using this repo Pysiddhi connects to the core of Siddhi without any further 
 configuration. 
 
